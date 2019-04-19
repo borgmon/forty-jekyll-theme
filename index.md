@@ -1,11 +1,13 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: "Hi, my name is Borgmon"
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I am Borgmon. A full stack developer. I enjoy creating data flow. From front-end to backend, through load balancer, they are transformed via immutable stream and saved to database. They are bouncing bits, they can be traced, be visualized, and be studied. I’m looking forward to engineer on those bouncing bits for your business.
+
+![email](/assets/images/email.jpg)
