@@ -37,18 +37,26 @@ $font: (
 
 // Palette.
 $palette: (
-  bg: #f1f1f1,
-  bg-alt: #f1f1f1,
-  fg: #000000,
-  fg-bold: #000000,
+  bg: #313131,
+  bg-alt: #313131,
+  fg: #ffffff,
+  fg-bold: #ffffff,
   fg-light: rgba(244, 244, 255, 0.2),
   border: rgba(212, 212, 255, 0.1),
   border-bg: rgba(212, 212, 255, 0.035),
   highlight: #f1518e,
-  accent1: #8acbbe,
-  accent2: #8acbbe,
-  accent3: #61b4b8,
-  accent4: #7dc5b7,
-  accent5: #8ea9e8,
-  accent6: #87c5a4
+  accent1: #111a58,
+  accent2: #109fa1,
+  accent3: #d6d1a1,
+  accent4: #f28507,
+  accent5: #ed4a05,
+  accent6: #224d47
+);
+$alt: (
+  accent1: #65e6d4,
+  accent2: #5fd9c9,
+  accent3: #5accbd,
+  accent4: #4fb3a5,
+  accent5: #3e8c82,
+  accent6: #224d47
 );
